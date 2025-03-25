@@ -15,7 +15,7 @@ UI/UX Designer | Frontend Developer | Full Stack Developer | Data Structures & A
 <p align="left">I am a UI/UX Designer, Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Figma, Framer, REST API and Data Visualization. </p>
 
 - ✨ Student of life :
-- 🔭 I’m currently working on [E-commerce digital store to generate sales from Social Media](https://buywithsanjay.netlify.app/)
+- 🔭 I’m currently working on [E-commerce digital store to generate sales from Social Media](http://editwithsanjay.in/)
 - 🌱 I’m currently learning **Node.js, web security, and Flutter app development**
 - 👯 I’m looking to collaborate on [App Design and Development processes](https://www.behance.net/attellisanjay/)
 - 📄 My Resume [Explore My Journey as a Frontend Developer & UI/UX Designer ](https://drive.google.com/file/d/1a9qmFQkipcN1rmk2dxOGDLMFZAm9xRx1/view)
