@@ -18,7 +18,7 @@ UI/UX Designer | Frontend Developer | Full Stack Developer | Data Structures & A
 - 🔭 I’m currently working on [E-commerce digital store to generate sales from Social Media](http://editwithsanjay.in/)
 - 🌱 I’m currently learning **Node.js, web security, and Flutter app development**
 - 👯 I’m looking to collaborate on [App Design and Development processes](https://www.behance.net/attellisanjay/)
-- 📄 My Resume [Explore My Journey as a Frontend Developer & UI/UX Designer ](https://drive.google.com/file/d/1a9qmFQkipcN1rmk2dxOGDLMFZAm9xRx1/view)
+- 📄 My Resume [Explore My Journey as a Frontend Developer & UI/UX Designer ](https://storage2.me-qr.com/pdf/02e52d21-3182-40b6-be68-a77f796cbd6b.pdf)
 - 👨‍💻 All of my projects are available at [https://github.com/sanjayattelli29](https://github.com/sanjayattelli29)
 - 📝 My portfolio [https://designwithsanjay.site/](https://designwithsanjay.site/)for more details about me.
 - 🤝 I’m looking for help with **Developing websites using AI as advanced tools**
