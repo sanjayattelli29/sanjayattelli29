@@ -584,19 +584,19 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 </table>
 
 ### 🎯 **Most Used Technologies**
-
 <table>
-<tr>
-<td align="center">🥇 **Jupyter Notebook** 51.90%</td>
-<td align="center">🥈 **TypeScript** 34.09%</td>
-<td align="center">🥉 **JavaScript** 6.38%</td>
-</tr>
-<tr>
-<td align="center">🏅 **Python** 5.03%</td>
-<td align="center">🏅 **CSS** 1.29%</td>
-<td align="center">🏅 **HTML** 1.15%</td>
-</tr>
+  <tr>
+    <td align="center">🥇 <strong>React.js</strong> • <code>30.00%</code></td>
+    <td align="center">🥈 <strong>TypeScript</strong> • <code>25.00%</code></td>
+    <td align="center">🥉 <strong>JavaScript</strong> • <code>15.00%</code></td>
+  </tr>
+  <tr>
+    <td align="center">🏅 <strong>Python</strong> • <code>12.00%</code></td>
+    <td align="center">🏅 <strong>Next.js</strong> • <code>10.00%</code></td>
+    <td align="center">🏅 <strong>Jupyter Notebook</strong> • <code>8.00%</code></td>
+  </tr>
 </table>
+
 
 </div>
 
@@ -604,13 +604,12 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve Jobs&quote=Innovation distinguishes between a leader and a follower.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
+<!--Dynamic Quote card updates everyday at 12 PM-->  
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>  
+<!--STARTS_HERE_QUOTE_CARD--> 
+<p align="center">     
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Quote by Steve Jobs"> 
+</p> 
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
