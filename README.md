@@ -1,18 +1,96 @@
 <!--Banner-->
-![sanjay Banner Image](./banner.jpg)
+!<br/>
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 **About Me**
+
+🎯 **Passionate Software Developer** with expertise in creating scalable solutions and optimizing performance for **SaaS applications**.
+
+💡 **Current Focus:**
+- ✨ Building innovative **E-commerce platforms** with social media integration
+- 🔐 Mastering **Web Security** and **Node.js** backend development  
+- 📱 Exploring **Flutter** for cross-platform mobile apps
+- 🤖 Integrating **AI tools** for advanced web development
+
+🌟 **Collaboration:** Always open to exciting **App Design & Development** projects!
+
+📊 **Social Impact:** **20k+ followers** with **90% engagement rate** across platforms
+
+❤️ **Mission:** Contributing to **Open Source** and building the future of web technology
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 **Featured Projects**
+
+<div align="center">
+
+<a href="http://editwithsanjay.in/" target="_blank">
+<img src="https://img.shields.io/badge/🛒_E--commerce_Digital_Store-FF6B6B?style=for-the-badge&logoColor=white" alt="E-commerce Store"/>
+</a>
+
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/📝_NotesGalaxy_App-4ECDC4?style=for-the-badge&logoColor=white" alt="NotesGalaxy"/>
+</a>
+
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/🌾_Agri_Assist_ML-45B7D1?style=for-the-badge&logoColor=white" alt="Agri Assist"/>
+</a>
+
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/📊_Web_Insights_Analytics-96CEB4?style=for-the-badge&logoColor=white" alt="Web Insights"/>
+</a>
+
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/🔄_Content_Flow_Manager-FFEAA7?style=for-the-badge&logoColor=black" alt="Content Flow"/>
+</a>
+
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/🌍_Air_Quality_Dashboard-DDA0DD?style=for-the-badge&logoColor=white" alt="Air Quality"/>
+</a>
+
 </div>
 
-<!--Header Name-->
-Hello ɪ'ᴍ Sanjay Kumar! 
-UI/UX Designer | Frontend Developer | Full Stack Developer | Data Structures & Algorithms Enthusiast 📊💻 | Building seamless and responsive digital experiences 🌐✨ | Passionate about solving problems through clean code and innovative solutions 💡🚀
-<br /> 
+### 🔗 **Quick Links**
 
-<!--Start Intro-->               
-<p align="left">I am a UI/UX Designer, Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Figma, Framer, REST API and Data Visualization. </p>
+<div align="center">
+
+<a href="https://designwithsanjay.site/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://storage2.me-qr.com/pdf/02e52d21-3182-40b6-be68-a77f796cbd6b.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📄_Resume-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+</a>
+
+<a href="https://www.behance.net/attellisanjay/" target="_blank">
+<img src="https://img.shields.io/badge/🎨_Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+</a>
+
+<a href="mailto:attellisanjay29@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/📧_Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!--End Intro-->er Image](./banner.jpg)
+
+<div align="center">
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Sanjay Kumar**! 
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26+Algorithms+Expert+%F0%9F%A7%A0;Building+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
+</div> 
 
 - ✨ Student of life :
 - 🔭 I’m currently working on [E-commerce digital store to generate sales from Social Media](http://editwithsanjay.in/)
@@ -287,60 +365,6 @@ Time Management ⏰  •  Problem Solving 💡  •  Leadership 👥
 - 💼 **3k+ LinkedIn connections** sharing design insights  
 - 🎥 **1k+ YouTube subscribers** (July 2024)
 - 💰 **Revenue generation** through social media marketing integration
-
----
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="33%">
-
-### 🏛️ **VNR VJIET Engineering College**
-**📅 January 2025 - Present**
-
-🎓 **Bachelor of Technology** - Information Technology  
-📊 **GPA**: 8.50/10
-
-**📚 Core Courses:**
-- Data Structures & Algorithms
-- Software Engineering  
-- Database Management Systems
-- Object-Oriented Programming
-
-**🔬 Electives:**
-- Cloud Computing
-- Agile Software Development
-- Cybersecurity
-
-</td>
-<td width="33%">
-
-### 🏫 **Sri Chaitanya Intermediate College**
-**📅 May 2022**
-
-📖 **Higher Secondary Education**  
-📊 **GPA**: 93.1%
-
-**🧪 Stream:** MPC  
-- Mathematics
-- Physics  
-- Chemistry
-
-</td>
-<td width="33%">
-
-### 🏫 **Sri Chaitanya School**
-**📅 May 2020**
-
-📖 **Secondary School Education**  
-📊 **GPA**: 100%
-
-**🏅 Perfect Score Achievement**
-
-</td>
-</tr>
-</table>
 
 ---
 
