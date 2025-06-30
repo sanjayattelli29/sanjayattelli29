@@ -5,8 +5,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Sanjay Kumar**! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26
----ding+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26+Algorithms+%F0%9F%94%8E;Creating+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
 
@@ -155,39 +154,13 @@ App Design & Development • AI-Powered Web Solutions
 
 <br/>
 
-### 🎥 **Project Demo & Community Showcase**
+### 🎥 **Project Demo**
 
-<table>
-<tr>
-<td width="45%" align="center">
+<div align="center">
+<iframe width="864" height="486" src="https://www.youtube.com/embed/CkeMWDcaAVs" title="Smart Data Analyser powered by AI Agents &amp; Deep Learning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-**🚀 Platform Demo**
-
-[![Smart Data Analyser Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img src="https://img.shields.io/badge/▶️_Watch_Platform_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" width="200"/>
-</a>
-
-*📹 Complete platform walkthrough & feature demonstration*
-
-</td>
-<td width="10%"></td>
-<td width="45%" align="center">
-
-**🎬 Community Impact**
-
-[![Community Building Through Code](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<a href="https://www.youtube.com/watch?v=CkeMWDcaAVs" target="_blank">
-<img src="https://img.shields.io/badge/▶️_My_Journey_Story-FF6B35?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Journey" width="200"/>
-</a>
-
-*🌟 Building Community Through Code - My Journey in Tech Education*
-
-</td>
-</tr>
-</table>
+<br/>
 
 ### **✨ Key Features & Capabilities:**
 
@@ -247,14 +220,14 @@ App Design & Development • AI-Powered Web Solutions
 
 ### 🌐 **Web Designer-Developer** | *Jacinth Paul Business Technologies Pvt Ltd* `On-Site`
 **📅 April 2024 - June 2024**
-- � **Personalized Learning Platform**: Built customized learning pathways for individual student needs
+- 🎓 **Personalized Learning Platform**: Built customized learning pathways for individual student needs
 - 🎓 **Interactive Tutorials**: Created engaging tutorials for complex subject understanding
 - 📊 **Measurable Impact**: **500+ students** enrolled with **4.65⭐ average rating**
-- � **Innovation**: Implemented modern web technologies for enhanced learning experiences
+- 🚀 **Innovation**: Implemented modern web technologies for enhanced learning experiences
 
 ### 👨‍💻 **Full-Stack Developer & Entrepreneur**
 **📅 Current Role - Building Digital Solutions**
-- � **E-commerce Platform**: Developing revenue-generating digital store with social media integration
+- 🛒 **E-commerce Platform**: Developing revenue-generating digital store with social media integration
 - 📊 **SaaS Product**: Built Smart Data Analyser - AI-powered analytics platform for students
 - 🎨 **Design Systems**: Creating scalable UI/UX components and design frameworks
 - 📈 **Social Media Growth**: Growing engaged community of 20k+ followers with 90% engagement rate
@@ -365,7 +338,7 @@ App Design & Development • AI-Powered Web Solutions
 
 <div align="center">
 
-### � **Technical Expertise**
+### 🔧 **Technical Expertise**
 | Category | Skills |
 |----------|--------|
 | **🔧 Data Structures** | Arrays, Linked Lists, Trees, Graphs, Hash Tables, Stacks, Queues |
@@ -374,7 +347,7 @@ App Design & Development • AI-Powered Web Solutions
 | **⚙️ Backend** | Node.js, Python, Flask, FastAPI, Express.js, RESTful APIs |
 | **☁️ Cloud & Database** | AWS, Lambda, Supabase, MongoDB, MySQL, Firebase |
 | **🤖 ML/AI** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Deep Learning |
-| **�🛠️ Development Tools** | VS Code, Git, GitHub, Docker, Anaconda, Jupyter Notebook |
+| **🛠️ Development Tools** | VS Code, Git, GitHub, Docker, Anaconda, Jupyter Notebook |
 | **🎨 Design Tools** | Figma, Adobe XD, Prototyping, UI/UX Design, Design Systems |
 
 ### 🧠 **Soft Skills & Core Competencies**
@@ -494,61 +467,6 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 
 </div>
 
-
----
-
-## � Education & Academic Excellence
-
-<div align="center">
-
-[![YouTube Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-*� Watch: Building Community Through Code - My Journey*
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img src="https://img.shields.io/badge/▶️_Watch_Full_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" width="200"/>
-</a>
-
-</div>
-
-</td>
-<td width="55%">
-
-### 🌟 **Making a Difference Through Technology**
-
-**Leading Tech Communities & Empowering Students**
-
-As a passionate advocate for inclusive technology education, I've dedicated myself to building bridges between students and the tech industry. Through my roles at **Google Developer Student Clubs** and **SMC Group**, I've fostered a collaborative environment where learning thrives.
-
-**� My Mission:** Creating accessible pathways for aspiring developers and designers to enter the tech ecosystem, regardless of their background or experience level.
-
-**� Impact Achieved:**
-- **500+ students** directly mentored in web development
-- **20+ workshops** organized on modern development practices  
-- **15k+ social media followers** inspired through design content
-- **3 hackathons** led with focus on practical skill building
-
-**💡 Current Initiatives:**
-- Developing free coding bootcamps for underserved communities
-- Creating comprehensive learning resources and video tutorials
-- Building mentor-mentee networks for continuous growth
-- Promoting diversity and inclusion in tech spaces
-
-</td>
-</tr>
-</table>
-
-**🏆 Leadership Roles:**
-
-<div align="center">
-
-| Role | Organization | Duration | Key Achievements |
-|------|-------------|----------|------------------|
-| **👨‍💻 Coder** | Google Developer Student Clubs VNR-VJIET | Jan 2024 | Led technical sessions, organized hackathons |
-| **📱 Student Coordinator** | SMC Group VNR-VJIET | Jan 2024 | Enhanced digital presence, strategic content planning |
-| **🎓 Community Educator** | Tech Education Initiative | 2023 - Present | Free workshops, mentoring programs |
-
-</div>
 
 ---
 
@@ -703,7 +621,7 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 <tr>
 <td width="30%" align="center">
 
-### � **Meet Sanjay**
+### 🧑‍💻 **Meet Sanjay**
 
 <img src="https://avatars.githubusercontent.com/u/sanjayattelli29?v=4" width="150" height="150" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Sanjay Kumar"/>
 
@@ -762,7 +680,7 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 <tr>
 <td width="25%" align="center">
 
-**� Technical Skills**
+**🔧 Technical Skills**
 Full-Stack Development, AI/ML Integration, Cloud Solutions
 
 </td>
@@ -774,7 +692,7 @@ UI/UX Design, Prototyping, User Research
 </td>
 <td width="25%" align="center">
 
-**� Business Acumen**
+**💻 Business Acumen**
 SaaS Development, Social Media Strategy, Revenue Generation
 
 </td>
@@ -790,7 +708,7 @@ Mentoring, Teaching, Open Source Contributions
 ### 💼 **Looking For Opportunities In:**
 
 ```
-🚀 Innovative Web Development Projects  •  � AI/ML Integration Solutions
+🚀 Innovative Web Development Projects  •  🤖 AI/ML Integration Solutions
 🎨 UI/UX Design Consultations  •  📱 Social Media Strategy & Digital Marketing
 🤖 SaaS Product Development  •  🎓 Educational Technology Initiatives
 ```
