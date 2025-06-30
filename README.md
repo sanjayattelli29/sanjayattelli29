@@ -157,7 +157,9 @@ App Design & Development • AI-Powered Web Solutions
 ### 🎥 **Project Demo**
 
 <div align="center">
-<iframe width="864" height="486" src="https://www.youtube.com/embed/CkeMWDcaAVs" title="Smart Data Analyser powered by AI Agents &amp; Deep Learning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=CkeMWDcaAVs" target="_blank">
+  <img src="https://img.youtube.com/vi/CkeMWDcaAVs/maxresdefault.jpg" alt="Smart Data Analyser powered by AI Agents & Deep Learning." width="864">
+</a>
 </div>
 
 <br/>
@@ -623,7 +625,6 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 
 ### 🧑‍💻 **Meet Sanjay**
 
-<img src="https://avatars.githubusercontent.com/u/sanjayattelli29?v=4" width="150" height="150" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Sanjay Kumar"/>
 
 **🚀 Full-Stack Developer**  
 **🎨 UI/UX Designer**  
