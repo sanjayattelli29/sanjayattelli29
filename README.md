@@ -64,87 +64,225 @@ App Design & Development • AI-Powered Web Solutions
 
 ## 🚀 Tech Stack & Technologies
 
+<div align="center">
+
 **Programming Languages**
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-**Frontend Development**
-<p align="left">
+**Frontend Technologies**
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
-**Backend Development**
-<p align="left">
+**Backend & Frameworks**
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-**Database & Cloud**
-<p align="left">
+**Cloud & Database**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-**Design & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
+**Design & Development Tools**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+</p>
+
+</div>
+
 ---
 
-## 💼 Experience
+## 🌟 My SaaS Product
 
-### Frontend Developer & UI/UX Designer
-**Current Role** | *Building Digital Experiences*
-- 🎨 Creating intuitive user interfaces with modern design principles
-- 💻 Developing responsive web applications using React and Next.js
-- 🚀 Optimizing performance and user experience across platforms
-- 📊 Growing social media presence with 20k+ engaged followers
+<div align="center">
+
+### 🚀 **Smart Data Analyser** - AI-Powered Analytics Platform
+
+<img src="https://img.shields.io/badge/🧠_AI_Powered-6C5CE7?style=for-the-badge&logoColor=white&labelColor=6C5CE7" alt="AI Powered" width="200"/>
+
+**Transform your data into actionable insights with our revolutionary AI-powered platform**
+
+📊 **Analyze** • 📈 **Visualize** • 🔮 **Predict** with exceptional accuracy and speed
+
+*Powered by AI Agents & Deep Learning - Exclusively designed for students willing to learn data analysis*
+
+<a href="https://dataviz-ai.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Launch_Platform-FF6B35?style=for-the-badge&logoColor=white&labelColor=FF6B35" alt="Launch Platform" width="250"/>
+</a>
+
+<a href="https://dataviz-ai.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/📊_Try_Demo-00B894?style=for-the-badge&logoColor=white&labelColor=00B894" alt="Try Demo" width="200"/>
+</a>
+
+**✨ Key Features:**
+- 🤖 **AI Agents** for automated data processing
+- 🧠 **Deep Learning** models for pattern recognition  
+- 📊 **Interactive Visualizations** with real-time updates
+- 🎯 **Student-Focused** learning modules and tutorials
+- ⚡ **Lightning Fast** analysis and insights generation
+
+</div>
 
 ---
 
-## 🎯 Featured Projects
+## 💼 Professional Experience
+
+### 🎨 **UI/UX Designer** | *Aspireup* `Remote`
+**📅 August 2024 - October 2024**
+- 🎯 **Ergonomic Interface**: Designed user-centric, visually compelling interfaces for seamless navigation
+- 📱 **Adaptive Responsiveness**: Developed fully responsive layouts for consistent cross-device experiences  
+- ⚡ **Interactive Dynamics**: Added real-time updates with advanced front-end technologies
+- 🚀 **Performance Focus**: Optimized design systems for enhanced user experience
+
+### 🌐 **Web Designer-Developer** | *Jacinth Paul Business Technologies Pvt Ltd* `On-Site`
+**📅 April 2024 - June 2024**
+- � **Personalized Learning Platform**: Built customized learning pathways for individual student needs
+- 🎓 **Interactive Tutorials**: Created engaging tutorials for complex subject understanding
+- 📊 **Measurable Impact**: **500+ students** enrolled with **4.65⭐ average rating**
+- � **Innovation**: Implemented modern web technologies for enhanced learning experiences
+
+### 👨‍💻 **Full-Stack Developer & Entrepreneur**
+**📅 Current Role - Building Digital Solutions**
+- � **E-commerce Platform**: Developing revenue-generating digital store with social media integration
+- 📊 **SaaS Product**: Built Smart Data Analyser - AI-powered analytics platform for students
+- 🎨 **Design Systems**: Creating scalable UI/UX components and design frameworks
+- 📈 **Social Media Growth**: Growing engaged community of 20k+ followers with 90% engagement rate
+- 🤖 **AI Integration**: Implementing machine learning solutions in web applications
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 E-commerce Digital Store
-**Social Media Sales Platform**
-- Built with React & Node.js
-- Integrated social media APIs
-- Real-time analytics dashboard
-- Mobile-responsive design
+### 🛒 **E-commerce Digital Store**
+**Revenue-focused platform with social media integration**
 
-**Tech Stack:** React, Node.js, MongoDB, AWS
+🌐 **Live**: [editwithsanjay.in](http://editwithsanjay.in/)
+
+**✨ Key Features:**
+- 💰 Strategic social media marketing (20k+ followers)
+- 🎯 Premium digital products for creators
+- ⚡ Instant access to digital assets
+- 📊 Revenue generation through community engagement
+
+**🛠️ Tech:** React.js, TypeScript, Node.js, Tailwind CSS, AWS Lambda, Figma
 
 </td>
 <td width="50%">
 
-### 🎨 Design Portfolio Platform
-**Modern UI/UX Showcase**
-- Interactive project galleries
-- Smooth animations & transitions
-- Responsive design system
-- Performance optimized
+### 📝 **NotesGalaxy - Ultimate Productivity App**
+**All-in-one solution for notes, tasks, and file management**
 
-**Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+**✨ Key Features:**
+- ☁️ Secure AWS cloud storage integration
+- 🎨 Intuitive drag-and-drop UI/UX
+- 🤖 AI-powered smart suggestions for task prioritization
+- 📱 Cross-device accessibility and synchronization
+
+**🛠️ Tech:** Python, Flask, AWS, TypeScript, React.js, Supabase
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌾 **Agri Assist - Smart Farming Companion**
+**ML-powered agricultural assistance platform**
+
+**✨ Key Features:**
+- 🌱 Crop predictions based on weather/soil conditions
+- 🔍 Disease identification via image recognition
+- 📊 **96% accuracy** with ML models (Research pending publication)
+- 💊 Pesticide and fertilizer recommendations
+
+**🛠️ Tech:** Random Forest, KNN, LightGBM, AWS, TypeScript, Node.js
+
+</td>
+<td width="50%">
+
+### 📊 **Web-Insights - Real-Time Analytics**
+**Transform website data into actionable insights**
+
+**✨ Key Features:**
+- 📈 Real-time traffic analytics dashboard
+- 🌍 IP/Country/Device-based monitoring
+- 💳 Secure payment integrations
+- 👥 Advanced user tracking and ad customer analytics
+
+**🛠️ Tech:** React.js, TypeScript, Node.js, Tailwind CSS, AWS Lambda
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📅 **Content-Flow - Smart Workflow Management**
+**Precision scheduling and task management platform**
+
+**✨ Key Features:**
+- 📋 Intuitive content workflow solution
+- 📊 Daily, weekly, and monthly task management
+- 📈 Insightful analytics and progress tracking
+- 🔐 Secure login functionality
+
+**🛠️ Tech:** React.js, TypeScript, Node.js, Tailwind CSS, Framer Motion
+
+</td>
+<td width="50%">
+
+### 🌍 **Air Quality Monitoring Dashboard**
+**Real-time air quality monitoring with ML predictions**
+
+**✨ Key Features:**
+- 🏠 **Live AQI data** for any location with Google AQI API
+- 🤖 **ML algorithms** for pollution trend analysis (**96% accuracy**)
+- 📊 **Advanced Analytics** with Random Forest, KNN, LightGBM, MLP models
+- 📝 **Research project** (pending publication)
+
+**🛠️ Tech:** Machine Learning, Web Development, AWS, TypeScript, Supabase
 
 </td>
 </tr>
@@ -152,65 +290,175 @@ App Design & Development • AI-Powered Web Solutions
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🎯 Skills & Core Competencies
 
+<div align="center">
+
+### � **Technical Expertise**
+| Category | Skills |
+|----------|--------|
+| **🔧 Data Structures** | Arrays, Linked Lists, Trees, Graphs, Hash Tables, Stacks, Queues |
+| **⚡ Algorithms** | Sorting, Searching, Dynamic Programming, Greedy, Graph Algorithms |
+| **🎨 Frontend** | React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, Bootstrap, Framer Motion |
+| **⚙️ Backend** | Node.js, Python, Flask, FastAPI, Express.js, RESTful APIs |
+| **☁️ Cloud & Database** | AWS, Lambda, Supabase, MongoDB, MySQL, Firebase |
+| **🤖 ML/AI** | Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Deep Learning |
+| **�🛠️ Development Tools** | VS Code, Git, GitHub, Docker, Anaconda, Jupyter Notebook |
+| **🎨 Design Tools** | Figma, Adobe XD, Prototyping, UI/UX Design, Design Systems |
+
+### 🧠 **Soft Skills & Core Competencies**
+```
+🗣️ Communication  •  🤝 Team Collaboration  •  🧮 Analytical Thinking
+⏰ Time Management  •  💡 Problem Solving  •  👥 Leadership
+🔍 User Research  •  🎯 Strategic Planning  •  📊 Data Analysis
+```
+
+### 📊 **Specialized Areas**
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-**🎨 Design**
+**🎨 Design Excellence**
 - UI/UX Design
-- Prototyping
-- User Research
+- User Research & Testing
+- Prototyping & Wireframing
 - Design Systems
-- Branding
-
-</td>
-<td width="33%">
-
-**💻 Development**
-- Full-Stack Development
+- Brand Identity
 - Responsive Design
-- API Integration
-- Database Design
-- Performance Optimization
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-**🤖 AI & ML**
-- Machine Learning
-- Data Analysis
-- Algorithm Design
-- Python Libraries
-- Model Deployment
+**💻 Development Mastery**
+- Full-Stack Development
+- API Design & Integration
+- Database Architecture
+- Performance Optimization
+- Code Quality & Testing
+- Agile Development
+
+</td>
+<td width="33%" align="center">
+
+**🤖 AI & Data Science**
+- Machine Learning Models
+- Data Analysis & Visualization
+- Algorithm Optimization
+- Deep Learning
+- Statistical Analysis
+- Research & Publication
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏆 Certifications & Achievements
-
-| Certification | Provider | Year |
-|---------------|----------|------|
-| 🎯 **Advanced React Development** | Meta | 2024 |
-| 🎨 **UI/UX Design Specialization** | Google | 2024 |
-| ☁️ **AWS Cloud Practitioner** | Amazon | 2023 |
-| 🤖 **Machine Learning Course** | Stanford | 2023 |
-| 📊 **Data Structures & Algorithms** | LeetCode | 2023 |
+</div>
 
 ---
 
-## 🤝 Volunteer Experience
+## 🏆 Certifications & Learning Journey
 
-### 💡 Tech Education Initiative
+<details>
+<summary><b>🏆 Click to view all certifications & achievements</b></summary>
+
+| 📅 Date | 🏢 Provider | 📚 Course | 🎯 Status |
+|----------|------------|-----------|-----------|
+| **Nov 2024** | Smart Interviews | Data Structures and Algorithms | ✅ Completed |
+| **2025** | Udemy | AWS Essentials – Complete Beginner's Guide | ✅ Completed |
+| **2025** | Udemy | ReactJS – The Complete Course | ✅ Completed |
+| **Mar 2024** | Guvi & Google | Python Programming Certification | ✅ Completed |
+| **2025** | Udemy | Data Visualization in Tableau and Python | ✅ Completed |
+| **May 2024** | Google | High-Fidelity Designs and Prototypes in Figma | ✅ Completed |
+| **2025** | Udemy | Machine Learning with Python A to Z | ✅ Completed |
+| **2025** | Udemy | Mastering Gemini AI – Google's Language Model | ✅ Completed |
+
+</details>
+
+### 🥇 **Notable Achievements**
+
+🏆 **Winner - Webathon 3.0** (ACM VNRVJIET, April 2025)
+   - Built E-commerce Optimization Platform with AWS Lambda
+   - Integrated real-time analytics & social-driven payments
+
+🥉 **Fourth Runner's Up** - Webathon Developers Circle Hackathon (March 2024)
+
+📱 **Social Media Impact:**
+- 📸 **15k+ Instagram followers** for design content
+- 💼 **3k+ LinkedIn connections** sharing design insights  
+- 🎥 **1k+ YouTube subscribers** (July 2024)
+- 💰 **Revenue generation** through social media marketing integration
+
+---
+
+## 🤝 Volunteer Experience & Community Impact
+
+### 👨‍💻 **Coder** | *Google Developer Student Clubs VNR-VJIET*
+**📅 January 2024**
+- 🎯 Organized coding events, workshops, and hackathons
+- 🚀 Made significant contributions to GDSC community growth
+- 👥 Mentored fellow students in web development and programming
+- 🏆 Led technical sessions on modern development practices
+
+### 📱 **Student Coordinator** | *SMC Group VNR-VJIET*  
+**📅 January 2024**
+- 📈 Enhanced VNRVJIET's social media presence and engagement
+- 💻 Shared coding insights and technical content creation strategies
+- 📊 Increased follower engagement through strategic content planning
+- 🤝 Collaborated with teams to improve digital outreach
+
+### 💡 **Tech Education Initiative**
 **Community Coding Workshops** | *2023 - Present*
-- Teaching web development to underserved communities
-- Mentoring aspiring developers and designers
-- Creating accessible learning resources
-- Building inclusive tech spaces
+- 🎓 Teaching web development to underserved communities
+- 👨‍🏫 Mentoring aspiring developers and designers
+- 📚 Creating accessible learning resources and tutorials
+- 🌍 Building inclusive tech spaces for diverse learners
+
+---
+
+## 🎓 Education & Academic Excellence
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ **VNR VJIET Engineering College**
+**📅 January 2025 - Present**
+
+🎓 **Bachelor of Technology** - Information Technology  
+📊 **GPA**: 8.50/10
+
+**📚 Core Courses:**
+- Data Structures & Algorithms
+- Software Engineering  
+- Database Management Systems
+- Object-Oriented Programming
+
+**🔬 Open Electives:**
+- Cloud Computing
+- Agile Software Development
+- Cybersecurity
+
+</td>
+<td width="50%">
+
+### 🏫 **Sri Chaitanya Institutions**
+
+**📅 Higher Secondary (May 2022)**  
+📖 **Stream:** MPC (Mathematics, Physics, Chemistry)  
+📊 **GPA**: 93.1%
+
+**📅 Secondary School (May 2020)**  
+📖 **Secondary School Education**  
+📊 **GPA**: 100% 🏅
+
+**🏅 Perfect Score Achievement**
+- Exceptional academic performance
+- Strong foundation in STEM subjects
+- Consistent academic excellence
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -231,30 +479,83 @@ App Design & Development • AI-Powered Web Solutions
 
 ---
 
-## 🌐 Connect with Me
+---
+
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve Jobs&quote=Innovation distinguishes between a leader and a follower.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
+
+## 🌐 Connect With Me & Let's Collaborate!
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sanjayattelli" target="_blank">
+### 📬 **Ready to Build Something Amazing Together?**
+
+<p>🚀 Open to collaborations on innovative projects | 💡 Always excited to discuss new ideas | 🎯 Available for freelance work</p>
+
+<br/>
+
+<!-- Enhanced Social Media Links -->
+<a href="mailto:attellisanjay29@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/attelli-sanjay-kumar" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://twitter.com/sanjayattelli" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://github.com/sanjayattelli29" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://instagram.com/designwithsanjay" target="_blank">
+<a href="https://www.instagram.com/editwithsanjay/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.behance.net/attellisanjay" target="_blank">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+<a href="https://twitter.com/SanjayAttelli" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
-<a href="https://dribbble.com/sanjayattelli" target="_blank">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+<a href="https://www.behance.net/attellisanjay/" target="_blank">
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
 </a>
 
+<a href="https://designwithsanjay.site/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+### 📞 **Quick Contact Information**
+```
+📧 Email: attellisanjay29@gmail.com
+📱 Phone: +91 8919200290
+🌐 Portfolio: designwithsanjay.site
+💼 LinkedIn: linkedin.com/in/attelli-sanjay-kumar
+🎨 Behance: behance.net/attellisanjay
+```
+
+### 🎯 **What I'm Looking For**
+- 🤝 **Collaborations** on innovative web development projects
+- 💼 **Freelance opportunities** in full-stack development
+- 🎨 **UI/UX design** projects and consultations
+- 🤖 **AI/ML integration** in web applications
+- 📱 **Social media strategy** and digital marketing partnerships
+
+</div>
+
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://buymeacoffee.com/attellisanjay" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 ---
@@ -263,4 +564,13 @@ App Design & Development • AI-Powered Web Solutions
   <img src="https://komarev.com/ghpvc/?username=sanjayattelli29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **✨ "Building the future, one line of code at a time" ✨**
+  
+  <br/><br/>
+  
+  **🌟 Thanks for visiting my profile! Star ⭐ my repositories if you find them interesting! 🌟**
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
