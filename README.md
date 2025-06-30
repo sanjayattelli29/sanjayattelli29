@@ -1,18 +1,18 @@
 <!--Banner-->
-![sanjay Banner Image](./banner.jpg)
+!ner Image](./banner.jpg)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Sanjay Kumar**! 
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26+Algorithms+Expert+%F0%9F%A7%A0;Building+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
-<!--Header Name-->
-Hello ɪ'ᴍ Sanjay Kumar! 
-UI/UX Designer | Frontend Developer | Full Stack Developer | Data Structures & Algorithms Enthusiast 📊💻 | Building seamless and responsive digital experiences 🌐✨ | Passionate about solving problems through clean code and innovative solutions 💡🚀
-<br /> 
+<br/> 
 
 <!--Start Intro-->               
-<p align="left">I am a UI/UX Designer, Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Figma, Framer, REST API and Data Visualization. </p>
+
 
 - ✨ Student of life :
 - 🔭 I’m currently working on [E-commerce digital store to generate sales from Social Media](http://editwithsanjay.in/)
@@ -27,17 +27,11 @@ UI/UX Designer | Frontend Developer | Full Stack Developer | Data Structures & A
 - ❤ Contributing to Open Source.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanjayattelli29&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="sanjayattelli29" style="padding-right:20px;" />
-</p>
-
-
 ---
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɡs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
