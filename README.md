@@ -5,7 +5,21 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Sanjay Kumar**! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C56A90&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96##---
+
+### � Education & Academic Excellence
+
+<table>
+<tr>
+<td width="50%">🎓 Education & Academic Excellence
+
+<table>
+<tr>
+<td width="50%">c Excellence
+
+<table>
+<tr>
+<td width="50%">mic Excellences+%26
 ---ding+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
@@ -155,39 +169,15 @@ App Design & Development • AI-Powered Web Solutions
 
 <br/>
 
-### 🎥 **Project Demo & Community Showcase**
+### 🎥 **Platform Demo & Walkthrough**
 
-<table>
-<tr>
-<td width="45%" align="center">
+<div align="center">
 
-**🚀 Platform Demo**
+<iframe width="864" height="486" src="https://www.youtube.com/embed/CkeMWDcaAVs" title="Smart Data Analyser powered by AI Agents &amp; Deep Learning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[![Smart Data Analyser Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+*🚀 Complete platform walkthrough & feature demonstration - Smart Data Analyser powered by AI Agents & Deep Learning*
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img src="https://img.shields.io/badge/▶️_Watch_Platform_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" width="200"/>
-</a>
-
-*📹 Complete platform walkthrough & feature demonstration*
-
-</td>
-<td width="10%"></td>
-<td width="45%" align="center">
-
-**🎬 Community Impact**
-
-[![Community Building Through Code](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<a href="https://www.youtube.com/watch?v=CkeMWDcaAVs" target="_blank">
-<img src="https://img.shields.io/badge/▶️_My_Journey_Story-FF6B35?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Journey" width="200"/>
-</a>
-
-*🌟 Building Community Through Code - My Journey in Tech Education*
-
-</td>
-</tr>
-</table>
+</div>
 
 ### **✨ Key Features & Capabilities:**
 
@@ -501,7 +491,7 @@ As a passionate advocate for inclusive technology education, I've dedicated myse
 
 <div align="center">
 
-[![YouTube Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 *� Watch: Building Community Through Code - My Journey*
 
