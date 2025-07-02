@@ -5,7 +5,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm **Sanjay Kumar**! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26+Algorithms+%F0%9F%94%8E;Creating+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Structures+%26+Algorithms+%F0%9F%94%8E;Creating+Seamless+Digital+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/>
 
