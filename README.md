@@ -15,7 +15,7 @@
 <td width="60%" align="left">
 
 ### 🚀 **About Me**
-**Passionate Full-Stack Developer** specializing in creating seamless digital experiences with expertise in **UI/UX Design** and **Machine Learning**. Currently building innovative solutions that bridge technology and creativity.
+**Passionate Full-Stack Developer** specializing in creating seamless digital experiences with expertise in **Mern Stack Devlopment** and **Machine Learning**. Currently building innovative solutions that bridge technology and creativity.
 
 **🎯 Currently Working On:**  
 E-commerce digital store leveraging social media for sales generation
